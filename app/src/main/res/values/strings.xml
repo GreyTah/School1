@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">School1</string>
+    <string name="textView1">School1</string>
+    <string name="edit_text_hint_main">Your Name</string>
+    <string name="button_text_main">Log In</string>
+    <string name="text_view_bottom_main">To improve your organization</string>
+</resources>
